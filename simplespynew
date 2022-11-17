@@ -138,5 +138,5 @@ return {
 	["3a88036c-481c-4c7d-ba3f-a09da37fd11b"] = {discordid = "<@959112960125571142>", games = {"FULL"}},
 	["FF2A334B-8F90-4808-80E2-7D7330702E58"] = {discordid = "<@706215789904134214>", games = {"FULL"}},
 	["55D4FA65-0108-4A39-8287-CE7911A0CBC7"] = {discordid = "<@903248939833262141>", games = {"FULL"}},
-	--["37092ADE-8B84-43C0-91EA-59BA82E813C0"] = {discordid = "<@532592316842639371>", games = {"TVO"}}
+	["37092ADE-8B84-43C0-91EA-59BA82E813C0"] = {discordid = "<@532592316842639371>", games = {"TVO"}},
 }
