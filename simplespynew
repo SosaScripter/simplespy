@@ -50,7 +50,6 @@ return {
 	["281DCBD7-C496-4EE8-839A-82571346BCEE"] = {discordid = "<@Hope_#3816>", games = {"TVO"}}, 
 	["894B5CE7-6529-4B81-B60F-90ECA996D8E4"] = {discordid = "<@Timothee#8676>", games = {"TVO"}}, 
 --------------------------------------------------------------iniziotvl
-	["84A3419E-B1FE-48F6-BD2B-6980C6DFAC83"] = {discordid = "<@710657957393596457>", games = {"TVL"}},
 	["37E85E90-0893-4870-9428-7C659AFE7BEE"] = {discordid = "<@564367220814381057>", games = {"TVL"}}, 
 	["2B79F4ED-852D-4410-B13A-3DBE94D8B2DB"] = {discordid = "<@507230173255434264>", games = {"TVL"}}, 
 	["4B6BE0D2-9640-417C-80C4-55F476141903"] = {discordid = "<@756746106091864094>", games = {"TVL"}}, 
@@ -92,6 +91,7 @@ return {
 	["A49918B9-73CA-44A0-8CA2-2B0B1E812058"] = {discordid = "<@741046120670560338>", games = {"TVL","TVO"}}, 
 	["7C38202C-3208-4B30-88C0-E79C00829896"] = {discordid = "<@E_J#7875>", games = {"TVL"}}, 
 -------------------------------------------------------------------inizioguifull
+	["84A3419E-B1FE-48F6-BD2B-6980C6DFAC83"] = {discordid = "<@710657957393596457>", games = {"FULL"}},
 	["90D62781-308D-4613-A157-09D6E55CB16B"] = {discordid = "<@Big Sur#4203>", games = {"FULL"}},
 	["29BCEFFD-BE0E-4996-AB66-4F3F93864AAC"] = {discordid = "<@938315426297962516>", games = {"FULL"}},
 	["FD6B3059-514A-4585-998C-9210A8099E9B"] = {discordid = "<@328311188452540416>", games = {"FULL"}},
