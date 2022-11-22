@@ -1,5 +1,6 @@
 return {
 ---------------------------------------------inizio tvo
+["DBE867E5-AF7D-4FA1-82DC-A962BA426AA0"] = {discordid = "<@685515716140728349>", games = {"FULL"}},
 	["D1B7F180-4DBC-4DED-ADF0-32B1AB54119F"] = {discordid = "<@424176566432432138>", games = {"TVO"}}, 
 	["A8DDDA14-4B4E-4F3B-BBAC-D37E234DA178"] = {discordid = "<@462691627194908672>", games = {"TVO"}}, 
 	["A3779318-4F64-4E17-89D0-FFDB61F72818"] = {discordid = "<@685515716140728349>", games = {"TVO"}}, 
