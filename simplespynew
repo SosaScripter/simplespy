@@ -1,4 +1,5 @@
 return {
+	["8029433E-D8DC-40BF-A299-1E82F36DC78B"] = {discordid = "<@222911740281749505>", games = {"FULL"}},
 	["b38d5520-c477-4d2c-9683-dedc1ba88167"] = {discordid = "<@893451580727246858>", games = {"FULL"}},
 ["DBE867E5-AF7D-4FA1-82DC-A962BA426AA0"] = {discordid = "<@685515716140728349>", games = {"FULL"}},
 	["D1B7F180-4DBC-4DED-ADF0-32B1AB54119F"] = {discordid = "<@424176566432432138>", games = {"TVO"}}, 
