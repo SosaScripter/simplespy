@@ -100,7 +100,7 @@ return {
 	["4A0F3FF2-C595-4C57-BCCD-53E92DFE45AA"] = {discordid = "<@795754360650727476>", games = {"TVL"}}, 
 	["EF811807-EDF9-4095-81EF-7F8FA422D62C"] = {discordid = "<@400933410547302403>", games = {"TVL"}}, 
 	["A2941B84-AD9B-476A-97C8-75DC0B48C04C"] = {discordid = "<@713046314367057990>", games = {"TVL"}}, 
-	["FB48C264-4CBA-4635-BE48-6FC3F035D57F"] = {discordid = "<@986985780297732178>", games = {"TVL","TVO"}}, 
+	["FC2895E9-1931-41ED-972B-08C98C83E1D6"] = {discordid = "<@986985780297732178>", games = {"TVL","TVO"}}, 
 	["f8697959-e0ea-4b6b-b18d-02232a351968"] = {discordid = "<@803774387655278603>", games = {"TVL"}}, 
 	["fa8f5188-6f3d-4be3-b635-c231a6e14467"] = {discordid = "<@703401468488712272>", games = {"FULL"}}, 
 	["A67F256C-C3AF-49A2-9D1F-59CD257FBE58"] = {discordid = "<@660122904117248020>", games = {"TVL","TVO"}}, 
