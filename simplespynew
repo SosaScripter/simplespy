@@ -1,5 +1,6 @@
 --[""] = {discordid = "<@>", games = {""}}, --this is a sample dont delete
 return {
+["cb430b8c-4c84-434c-a1f1-baee2764c101"] = {discordid = "<@293726744945360896>", games = {"TVL"}},
 ["0F98F106-0A27-42C1-940D-39A4891EEF5E"] = {discordid = "<@738189866055237673>", games = {"TVL"}},
 ["0E310622-6B99-43CB-BAD7-457DD092573C"] = {discordid = "<@532592316842639371>", games = {"FULL"}}, --sosa
 ["A23C1155-E8A1-4EC5-A23B-219E70F31302"] = {discordid = "<@1061744258626879560>", games = {"FULL"}},
