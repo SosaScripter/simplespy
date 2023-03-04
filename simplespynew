@@ -1,6 +1,7 @@
 --[""] = {discordid = "<@>", games = {""}}, --this is a sample dont delete
 return {
 
+["E25BC371-9152-4C21-8387-1B3422759523"] = {discordid = "<@936665783692570735>", games = {"FULL"}},
 ["F14DC4FB-6EB1-4DAC-A254-39830F2B6431"] = {discordid = "<@1080170785546711090>", games = {"TVL"}},
 ["a01d6c8a-5aee-4548-8c93-b114e2a41832"] = {discordid = "<@652388075082874881>", games = {"FULL"}},
 ["cb430b8c-4c84-434c-a1f1-baee2764c101"] = {discordid = "<@293726744945360896>", games = {"TVL","FULL"}},
