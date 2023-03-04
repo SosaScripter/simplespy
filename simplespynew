@@ -1,5 +1,7 @@
 --[""] = {discordid = "<@>", games = {""}}, --this is a sample dont delete
 return {
+
+["F14DC4FB-6EB1-4DAC-A254-39830F2B6431"] = {discordid = "<@1080170785546711090>", games = {"TVL"}},
 ["a01d6c8a-5aee-4548-8c93-b114e2a41832"] = {discordid = "<@652388075082874881>", games = {"FULL"}},
 ["cb430b8c-4c84-434c-a1f1-baee2764c101"] = {discordid = "<@293726744945360896>", games = {"TVL","FULL"}},
 ["0F98F106-0A27-42C1-940D-39A4891EEF5E"] = {discordid = "<@738189866055237673>", games = {"TVL"}},
@@ -14,7 +16,7 @@ return {
 ["98562E21-C6F4-4704-82B7-1FFDC950A0DF"] = {discordid = "<@287376486820872193>", games = {"TVL","TVO"}},
 ["3E93CFC4-6464-4536-9753-FB8E8EC0CA49"] = {discordid = "<@546153122209202178>", games = {"TVL"}},
 ["E2673A90-810A-4C14-8DC6-26E176F8FEE5"] = {discordid = "<@906485592282497025", games = {"TVO"}},
-["D9250377-D61A-4997-B875-898CECE7BAC0"] = {discordid = "<@1041160428157411398", games = {"TVO"}},
+["F404A98E-BCD1-40BF-91F9-A6D620C84D66"] = {discordid = "<@1041160428157411398", games = {"TVO"}},
 ["CEFAE2A2-CD34-4382-94F9-910959806128"] = {discordid = "<@920394016506384384>", games = {"TVL"}},
 ["E5907FF8-DE89-4FD7-AC2C-4AA17CDE47B5"] = {discordid = "<@836229084409364501>", games = {"FULL"}},
 ["1e42ef48-773a-4f10-bb1f-d46d4697e7de"] = {discordid = "<@767154556156510228>", games = {"TVO"}},
@@ -168,5 +170,5 @@ return {
 	["55D4FA65-0108-4A39-8287-CE7911A0CBC7"] = {discordid = "<@903248939833262141>", games = {"FULL"}},
 	["37092ADE-8B84-43C0-91EA-59BA82E813C0"] = {discordid = "<@532592316842639371>", games = {"FULL"}},
 	["32C4FAE1-5097-4272-9779-CE79B13E1FC7"] = {discordid = "<@405166246980616202>", games = {"FULL"}},
-	["D2238C6C-8CA1-4FEC-837C-A49454B0C114"] = {discordid = "<@847907964257697803>", games = {"TVO"}},
+	["C0D8BCF0-6553-4AE1-87D8-8BEC5C41732D"] = {discordid = "<@847907964257697803>", games = {"TVO"}},
 }
