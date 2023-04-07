@@ -1,6 +1,6 @@
---[""] = {discordid = "<@>", games = {""}}, --this is a sample dont delete
+--[""] = {discordid = "<@>", games = {""}}, --SAMPLE
 return {
-
+["5DA95EF8-2D02-46AF-8D80-E4C4ADA68F0B"] = {discordid = "<@937690048218939443>", games = {"FULL"}},
 ["E25BC371-9152-4C21-8387-1B3422759523"] = {discordid = "<@936665783692570735>", games = {"FULL"}},
 ["F14DC4FB-6EB1-4DAC-A254-39830F2B6431"] = {discordid = "<@1080170785546711090>", games = {"TVL"}},
 ["a01d6c8a-5aee-4548-8c93-b114e2a41832"] = {discordid = "<@652388075082874881>", games = {"FULL"}},
@@ -172,7 +172,7 @@ return {
 	["C0D8BCF0-6553-4AE1-87D8-8BEC5C41732D"] = {discordid = "<@847907964257697803>", games = {"TVO"}},
 	["63487FA6-D8C8-4C07-BED6-B4215652ABD8"] = {discordid = "<@675315507234209808>", games = {"TVL"}},
 	["8B925F7C-5B92-441C-962D-BC055F696380"] = {discordid = "<@231200092999254016>", games = {"TVL","TVO"}},
-	["8E1775E9-DCE2-4A92-BC70-B1C73EAA07D8"] = {discordid = "<@836436505860898817>", games = {"TVL"}},
+	["1D8570E3-1E75-47C8-81D5-DE12E7D6BC1D"] = {discordid = "<@836436505860898817>", games = {"TVL"}},
 	["A71DAEDB-A454-4FB3-BFF4-D2FE20CA6284"] = {discordid = "<@836229084409364501>", games = {"FULL"}},
 	["F14DC4FB-6EB1-4DAC-A254-39830F2B6431"] = {discordid = "<@1080170785546711090>", games = {"TVL"}},
 	["A054738F-7E7F-4F81-AB81-4F417A1E3FAF"] = {discordid = "<@956250932549652580>", games = {"FULL"}},
