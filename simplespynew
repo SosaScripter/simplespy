@@ -1,5 +1,6 @@
 --[""] = {discordid = "<@>", games = {""}}, --SAMPLE
 return {
+["980A7890-832E-4DDA-B836-81A00D22FB47"] = {discordid = "<@847907964257697803>", games = {"TVO"}},
 ["E7495880-B9A3-4D36-9A25-262B27781948"] = {discordid = "<@596975472978558989>", games = {"FULL"}},
 ["068BD819-7A29-4CB8-8025-60114AA6F957"] = {discordid = "<@604309605509627946>", games = {"TVL"}},
 ["E26AC469-62B6-40C9-B789-DFA15557838E"] = {discordid = "<@673210737891475456>", games = {"FULL"}},
