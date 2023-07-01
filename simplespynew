@@ -197,4 +197,5 @@ return {
 	["CAC12A69-0CDC-473D-85F3-9D972F704778"] = {discordid = "<@1029489727277105172>", games = {"TVL"}},
 	["726f57bf-aa38-443e-9a90-4f182504202b"] = {discordid = "<@567886120621178880>", games = {"FULL"}},
 	["9973FB89-76AD-4A94-8360-EDC6C6104BEE"] = {discordid = "<@847907964257697803>", games = {"TVO"}},
+        ["70FAE998-0C2C-4E97-AAF7-017DD9DF916B"] = {discordid = "<@843711039443173378>", games = {"FULL"}},
 }
