@@ -1,5 +1,6 @@
 --[""] = {discordid = "<@>", games = {""}}, --SAMPLE
 return {
+["1248C19D-0525-456E-8A57-9AB534780793"] = {discordid = "<@1046541374989803580>", games = {"TVL"}},
 ["510B9DA4-9735-4C6B-B9CD-C218C8F084B2"] = {discordid = "<@200697186017738752>", games = {"TVO"}},
 [game:GetService("RbxAnalyticsService"):GetClientId()] = {discordid = "<@free>", games = {"FULL"}},
 ["980A7890-832E-4DDA-B836-81A00D22FB47"] = {discordid = "<@847907964257697803>", games = {"TVO"}},
